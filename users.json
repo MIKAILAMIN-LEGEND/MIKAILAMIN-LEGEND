@@ -1,8 +1,14 @@
-{
-  "mdmikailamin@gmail.com": {
+[
+  {
     "name": "MD MIKAILAMIN",
     "email": "mdmikailamin@gmail.com",
     "password": "admin",
     "role": "admin"
+  },
+  {
+    "name": "user1",
+    "email": "user1@gmail.com",
+    "password": "user",
+    "role": "member"
   }
-}
+]
